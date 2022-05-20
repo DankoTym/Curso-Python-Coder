@@ -14,3 +14,4 @@ while opcion != 4:
     break
   if opcion<1 or opcion>4:
     print("Opción incorrecta, deberá reingresar")
+print("termino la ejecucion")
